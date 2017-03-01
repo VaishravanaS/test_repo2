@@ -1,3 +1,6 @@
+//adding project to github
+
+
 #include <msp430.h>
 
 /*
